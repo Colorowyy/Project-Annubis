@@ -6,7 +6,7 @@ Starting with version 4.2 we like to announce regular security updates for the a
 
 | Version | Supported          |
 | ------- | ------------------ |
-|   4.2   | :white_check_mark: |
+|   4.2.x   | :white_check_mark: |
 |   4.1   | :x:                |
 |   4.0   | :x:                |
 | < 3.0   | :x:                |
